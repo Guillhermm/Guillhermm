@@ -22,24 +22,8 @@ I'm a senior software engineer with more than ten years of production work acros
 
 ### Research
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ivrp.zenus.systems/simulator"><img src="assets/projects/ivrp.png" alt="Interplanetary VRP"></a>
-      <br><b>Interplanetary VRP</b>
-      <br>The vehicle routing problem recast as interplanetary mission scheduling, solved exactly with a MILP model and shown in a 3D simulator.
-      <br><a href="https://ivrp.zenus.systems/simulator">Simulator</a> · <a href="https://doi.org/10.5281/zenodo.19475128">Preprint</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://mim.zenus.systems"><img src="assets/projects/mim.png" alt="Multidimensional Ideological Model"></a>
-      <br><b><a href="https://github.com/Guillhermm/multidimensional-ideological-model">Multidimensional Ideological Model</a></b>
-      <br>Twenty political ideologies as vectors in continuous 3D space, animated across 400 years of history.
-      <br><a href="https://mim.zenus.systems/tool">Open the model</a>
-    </td>
-  </tr>
-</table>
-
 - **M.Sc. in Technology, Information and Communication Systems, Unicamp (2020).** A vehicle routing benchmark modeled on real post office deliveries in Artur Nogueira. [Dissertation](https://repositorio.unicamp.br/acervo/detalhe/1127172)
+- **[Multidimensional Ideological Model](https://mim.zenus.systems).** Twenty political ideologies as vectors in continuous 3D space, animated across 400 years of history. [Repository](https://github.com/Guillhermm/multidimensional-ideological-model)
 - **Book chapter, Elsevier (2019).** How to assess your smart delivery system? Benchmarks for rich vehicle routing problems. [Chapter](https://www.sciencedirect.com/science/article/abs/pii/B9780128157152000075)
 
 ### Projects
@@ -61,10 +45,10 @@ I'm a senior software engineer with more than ten years of production work acros
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://guillhermm.github.io/mathematikos/"><img src="assets/projects/mathematikos.png" alt="Mathematikos"></a>
-      <br><b><a href="https://github.com/Guillhermm/mathematikos">Mathematikos</a></b>
-      <br>An educational game through ancient number systems.
-      <br><a href="https://guillhermm.github.io/mathematikos/">Play on the web</a>
+      <a href="https://ivrp.zenus.systems/simulator"><img src="assets/projects/ivrp.png" alt="Interplanetary VRP"></a>
+      <br><b><a href="https://ivrp.zenus.systems">Interplanetary VRP</a></b> 🔒 <sub>private repository</sub>
+      <br>Vehicle routing as interplanetary mission scheduling, solved exactly.
+      <br><a href="https://ivrp.zenus.systems/simulator">Simulator</a> · <a href="https://doi.org/10.5281/zenodo.19475128">Preprint</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://guillhermm.github.io/guitar-simulator/"><img src="assets/projects/guitar-simulator.png" alt="Guitar Simulator"></a>
@@ -78,11 +62,13 @@ I'm a senior software engineer with more than ten years of production work acros
       <a href="https://github.com/Guillhermm/equationeer"><img src="assets/projects/equationeer.png" alt="Equationeer"></a>
       <br><b><a href="https://github.com/Guillhermm/equationeer">Equationeer</a></b>
       <br>Chrome extension: highlight an equation on any page or PDF and get it explained.
+      <br><a href="https://chromewebstore.google.com/detail/equationeer/ccgeiaeelfigohdkapghnpilecpmnedb">Chrome Web Store</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Guillhermm/plotdeck"><img src="assets/projects/plotdeck.png" alt="Plot deck"></a>
       <br><b><a href="https://github.com/Guillhermm/plotdeck">Plot deck</a></b>
       <br>Chrome extension: finds the equations on a page and plots them, with a slider per parameter.
+      <br><a href="https://chromewebstore.google.com/detail/plot-deck/dfbabdkjmbgjkfmflhcfplnanonihaol">Chrome Web Store</a>
     </td>
   </tr>
 </table>
