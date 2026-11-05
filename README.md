@@ -11,7 +11,7 @@
   <a href="mailto:guillhermmzenni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I'm a senior software engineer with more than ten years of production work across backend, web and platform systems, in multi-region delivery for clients mostly in North America. I hold a B.Tech and an M.Sc. from Unicamp, where my research is in combinatorial optimization: vehicle routing, scheduling, and decisions under constraints. On the side I build small products, mostly games and tools with mathematics at their core.
+I'm a senior software engineer with more than ten years of production work across backend, web and platform systems, in multi-region delivery for clients mostly in North America. I hold a B.Tech in Systems Analysis and Development and an M.Sc. in Technology (Information and Communication Systems), both from Unicamp. My research is in combinatorial optimization: vehicle routing, scheduling, and decisions under constraints. On the side I build small products, mostly games and tools with mathematics at their core.
 
 ### Now
 
@@ -65,7 +65,7 @@ I'm a senior software engineer with more than ten years of production work acros
 
 ### Research
 
-- **M.Sc. in Technology, Unicamp (2020).** A vehicle routing benchmark modeled on real post office deliveries in Artur Nogueira. [Dissertation](https://repositorio.unicamp.br/acervo/detalhe/1127172)
+- **M.Sc. in Technology, Information and Communication Systems, Unicamp (2020).** A vehicle routing benchmark modeled on real post office deliveries in Artur Nogueira. [Dissertation](https://repositorio.unicamp.br/acervo/detalhe/1127172)
 - **Book chapter, Elsevier (2019).** How to assess your smart delivery system? Benchmarks for rich vehicle routing problems. [Chapter](https://www.sciencedirect.com/science/article/abs/pii/B9780128157152000075)
 
 ### Toolkit
