@@ -8,6 +8,8 @@
   <a href="https://guilherme.zenus.systems"><img src="https://img.shields.io/badge/Website-guilherme.zenus.systems-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/guilherme-zeni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://guilherme.zenus.systems/academic"><img src="https://img.shields.io/badge/Research-4B5563?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research"></a>
+  <a href="https://guilherme.zenus.systems/art"><img src="https://img.shields.io/badge/Art-7C3AED?style=for-the-badge&logo=artstation&logoColor=white" alt="Art"></a>
+  <a href="https://codepen.io/guillhermm"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
   <a href="mailto:guillhermmzenni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -17,6 +19,28 @@ I'm a senior software engineer with more than ten years of production work acros
 
 - **Applied mathematics at IMECC, Unicamp.** Exact methods for an integrated production-routing problem with product decay and appointment time windows.
 - **[Zenus](https://github.com/Guillhermm/zenus).** An intent execution engine for Linux: natural language in, verified shell actions out, with rollback.
+
+### Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ivrp.zenus.systems/simulator"><img src="assets/projects/ivrp.png" alt="Interplanetary VRP"></a>
+      <br><b>Interplanetary VRP</b>
+      <br>The vehicle routing problem recast as interplanetary mission scheduling, solved exactly with a MILP model and shown in a 3D simulator.
+      <br><a href="https://ivrp.zenus.systems/simulator">Simulator</a> · <a href="https://doi.org/10.5281/zenodo.19475128">Preprint</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mim.zenus.systems"><img src="assets/projects/mim.png" alt="Multidimensional Ideological Model"></a>
+      <br><b><a href="https://github.com/Guillhermm/multidimensional-ideological-model">Multidimensional Ideological Model</a></b>
+      <br>Twenty political ideologies as vectors in continuous 3D space, animated across 400 years of history.
+      <br><a href="https://mim.zenus.systems/tool">Open the model</a>
+    </td>
+  </tr>
+</table>
+
+- **M.Sc. in Technology, Information and Communication Systems, Unicamp (2020).** A vehicle routing benchmark modeled on real post office deliveries in Artur Nogueira. [Dissertation](https://repositorio.unicamp.br/acervo/detalhe/1127172)
+- **Book chapter, Elsevier (2019).** How to assess your smart delivery system? Benchmarks for rich vehicle routing problems. [Chapter](https://www.sciencedirect.com/science/article/abs/pii/B9780128157152000075)
 
 ### Projects
 
@@ -63,28 +87,23 @@ I'm a senior software engineer with more than ten years of production work acros
   </tr>
 </table>
 
-### Research
-
-- **M.Sc. in Technology, Information and Communication Systems, Unicamp (2020).** A vehicle routing benchmark modeled on real post office deliveries in Artur Nogueira. [Dissertation](https://repositorio.unicamp.br/acervo/detalhe/1127172)
-- **Book chapter, Elsevier (2019).** How to assess your smart delivery system? Benchmarks for rich vehicle routing problems. [Chapter](https://www.sciencedirect.com/science/article/abs/pii/B9780128157152000075)
-
 ### Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <a href="https://dev.java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
+  <a href="https://www.swift.org"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"></a>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="visionOS">
-  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://astro.build"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://developer.apple.com/visionos/"><img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="visionOS"></a>
+  <a href="https://developer.chrome.com/docs/extensions"><img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions"></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
