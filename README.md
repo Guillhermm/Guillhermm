@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://guilherme.zenus.systems"><img src="https://img.shields.io/badge/Website-guilherme.zenus.systems-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/guilherme-zeni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://guilherme.zenus.systems/academic"><img src="https://img.shields.io/badge/Research-4B5563?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research"></a>
   <a href="https://guilherme.zenus.systems/art"><img src="https://img.shields.io/badge/Art-7C3AED?style=for-the-badge&logo=artstation&logoColor=white" alt="Art"></a>
   <a href="https://codepen.io/guillhermm"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
+  <a href="https://www.linkedin.com/in/guilherme-zeni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:guillhermmzenni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
