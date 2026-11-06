@@ -23,7 +23,6 @@ I'm a senior software engineer with more than ten years of production work acros
 ### Research
 
 - **M.Sc. in Technology, Information and Communication Systems, Unicamp (2020).** A vehicle routing benchmark modeled on real post office deliveries in Artur Nogueira. [Dissertation](https://repositorio.unicamp.br/acervo/detalhe/1127172)
-- **[Multidimensional Ideological Model](https://mim.zenus.systems).** Twenty political ideologies as vectors in continuous 3D space, animated across 400 years of history. [Repository](https://github.com/Guillhermm/multidimensional-ideological-model)
 - **Book chapter, Elsevier (2019).** How to assess your smart delivery system? Benchmarks for rich vehicle routing problems. [Chapter](https://www.sciencedirect.com/science/article/abs/pii/B9780128157152000075)
 
 ### Projects
@@ -46,7 +45,7 @@ I'm a senior software engineer with more than ten years of production work acros
   <tr>
     <td width="50%" valign="top">
       <a href="https://ivrp.zenus.systems/simulator"><img src="assets/projects/ivrp.png" alt="Interplanetary VRP"></a>
-      <br><b><a href="https://ivrp.zenus.systems">Interplanetary VRP</a></b> 🔒 <sub>private repository</sub>
+      <br><b><a href="https://ivrp.zenus.systems">Interplanetary VRP</a></b> 🔒
       <br>Vehicle routing as interplanetary mission scheduling, solved exactly.
       <br><a href="https://ivrp.zenus.systems/simulator">Simulator</a> · <a href="https://doi.org/10.5281/zenodo.19475128">Preprint</a>
     </td>
