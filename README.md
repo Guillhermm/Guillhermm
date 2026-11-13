@@ -50,24 +50,24 @@ I'm a senior software engineer with more than ten years of production work acros
       <br><a href="https://ivrp.zenus.systems/simulator">Simulator</a> · <a href="https://doi.org/10.5281/zenodo.19475128">Preprint</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://guillhermm.github.io/guitar-simulator/"><img src="assets/projects/guitar-simulator.png" alt="Guitar Simulator"></a>
-      <br><b><a href="https://github.com/Guillhermm/guitar-simulator">Guitar Simulator</a></b>
-      <br>A classical guitar you play in the browser, with a tablature editor.
-      <br><a href="https://guillhermm.github.io/guitar-simulator/">Play on the web</a>
+      <a href="https://postvrp.zenus.systems"><img src="assets/projects/postvrp-viewer.png" alt="PostVRP Viewer"></a>
+      <br><b><a href="https://postvrp.zenus.systems">PostVRP Viewer</a></b> 🔒
+      <br>Eight routing algorithms on a postal delivery benchmark built from real deliveries, run by run on a map.
+      <br><a href="https://postvrp.zenus.systems">Explore on the web</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Guillhermm/equationeer"><img src="assets/projects/equationeer.png" alt="Equationeer"></a>
-      <br><b><a href="https://github.com/Guillhermm/equationeer">Equationeer</a></b>
-      <br>Chrome extension: highlight an equation on any page or PDF and get it explained.
-      <br><a href="https://chromewebstore.google.com/detail/equationeer/ccgeiaeelfigohdkapghnpilecpmnedb">Chrome Web Store</a>
-    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Guillhermm/plotdeck"><img src="assets/projects/plotdeck.png" alt="Plot deck"></a>
       <br><b><a href="https://github.com/Guillhermm/plotdeck">Plot deck</a></b>
       <br>Chrome extension: finds the equations on a page and plots them, with a slider per parameter.
       <br><a href="https://chromewebstore.google.com/detail/plot-deck/dfbabdkjmbgjkfmflhcfplnanonihaol">Chrome Web Store</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Guillhermm/summarizer"><img src="assets/projects/summarizer.png" alt="Summarizer"></a>
+      <br><b><a href="https://github.com/Guillhermm/summarizer">Summarizer</a></b>
+      <br>Chrome extension: triages an article before you read it, with its main argument, reading time, level and a verdict.
+      <br><a href="https://chromewebstore.google.com/detail/summarizer/oiocenamnmoagllbgdagghmbgccdclck">Chrome Web Store</a>
     </td>
   </tr>
 </table>
